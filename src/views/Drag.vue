@@ -9,7 +9,7 @@
 
 import dragTreeTable from '../lib/dragTreeTable.vue';
 export default {
-  name: 'About',
+  name: 'Drag',
   data () {
     return {
       treeData: {
